@@ -51,19 +51,19 @@ The network connects an HQ site and a Branch site using routers, switches, and m
 
 ### VLAN Configuration
 
-![VLAN Brief](screenshots/vlan-brief.png)
+![VLAN Brief](screenshots/show-vlan-brief.png)
 
 ### Trunk Configuration
 
-![Trunk Config](screenshots/trunk-config.png)
+![Trunk Config](screenshots/show-trunk.png)
 
 ### OSPF Neighbor
 
-![OSPF Neighbor](screenshots/ospf-neighbor.png)
+![OSPF Neighbor](screenshots/show-ospf-neighbor.png)
 
 ### Routing Table
 
-![Routing Table](screenshots/routing-table.png)
+![Routing Table](screenshots/show-ip-route.png)
 
 ### ACL Hit Counts
 
